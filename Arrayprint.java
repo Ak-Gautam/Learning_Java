@@ -20,6 +20,8 @@ class Arrayprint
         for(int x:num)
            System.out.println(x);
 
+        inp.close();// To prevent the resource leak warning
+
 
 
     }

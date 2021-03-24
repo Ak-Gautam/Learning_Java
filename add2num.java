@@ -14,6 +14,7 @@ public class add2num
         b = inp.nextInt();
         c = a + b;
         System.out.println("Sum = "+c);
+        inp.close();
     }
     
 }
