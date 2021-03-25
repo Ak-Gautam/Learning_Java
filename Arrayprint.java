@@ -13,7 +13,7 @@ class Arrayprint
         for(int i=0; i<n; i++)
             num[i] = inp.nextInt();
         System.out.println("Array Elements are");
-        for(int i=0;i<num.length; i++)
+        for(int i=0;i<num.length; i++)      //i < array.length
             System.out.println(num[i]);
         //for-each loop
         System.out.println("Print Array Elements using for-each loop");
