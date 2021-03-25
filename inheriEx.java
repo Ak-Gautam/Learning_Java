@@ -26,6 +26,7 @@ class hall extends room //inheritance
   }
 }
 
+
 class inheriEx
 {
   public static void main(String[] args)
