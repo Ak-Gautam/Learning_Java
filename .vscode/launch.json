@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello1<Learning_Java_6be8baa9>",
+            "request": "launch",
+            "mainClass": "Hello1",
+            "projectName": "Learning_Java_6be8baa9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-add2num<Learning_Java_6be8baa9>",
+            "request": "launch",
+            "mainClass": "add2num",
+            "projectName": "Learning_Java_6be8baa9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-odd_even<Learning_Java_6be8baa9>",
+            "request": "launch",
+            "mainClass": "odd_even",
+            "projectName": "Learning_Java_6be8baa9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sumOfDigit<Learning_Java_6be8baa9>",
+            "request": "launch",
+            "mainClass": "sumOfDigit",
+            "projectName": "Learning_Java_6be8baa9"
+        }
+    ]
+}
